@@ -1,0 +1,6 @@
+{
+  "name": "SehatAI",
+  "description": "AI-powered Health Assistant for Pakistan providing symptoms analysis and health guidance in Urdu and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
